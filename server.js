@@ -7,7 +7,7 @@ const app = express();
 const server = http.createServer(app);
 const io = socketIO(server)
 
-server.listen(3000);
+server.listen(3000, () => console.log('Servidor em execução. Acesse http://localhost:3000'));
 
 app.use(express.static(path.join(__dirname, 'public')));
 
