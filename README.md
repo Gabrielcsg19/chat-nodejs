@@ -1,6 +1,6 @@
 <h1 align="center">node-chat</h1><br>
 
-![Screenshot 2021-08-18 at 08-25-29 Chat (Gabriel)](https://user-images.githubusercontent.com/54643425/129890192-a10fb297-cb79-4b75-a605-70eb7e924f93.png)
+![Screenshot 2021-08-18 at 08-25-29 Chat (Gabriel)](https://raw.githubusercontent.com/Gabrielcsg19/node-chat/master/assets/cover-img.png)
 
 ---
 Sistema de chat simples desenvolvido em __Node.js__ com __socket.io__ e __express__.
